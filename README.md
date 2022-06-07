@@ -20,7 +20,7 @@ To complete the assignment, you’ll need to do the following:
 ## User Story
 
 ```md
-AS AN avid reader
+AS AN avid reader!
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 ```
